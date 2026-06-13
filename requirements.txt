@@ -1,0 +1,12 @@
+Arduino Uno
+L298N Motor Driver
+HC-SR04 Ultrasonic Sensor
+IR Line Tracking Sensor
+SIM800L GSM Module
+GY-NEO6MV2 GPS Module
+2 DC Geared Motors
+Robot Chassis
+Breadboard
+Jumper Wires
+Battery Pack
+Arduino IDE 2.x
